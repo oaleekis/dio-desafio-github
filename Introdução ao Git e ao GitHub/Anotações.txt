@@ -1,0 +1,57 @@
+Alguns comandos :
+
+git config
+Um dos comandos git mais usados ​​é o git config que pode ser usado para definir valores de 
+configuração específicos do usuário como e-mail,
+
+git init 
+Este comando é usado para criar um novo repositório GIT.
+
+git add
+O comando git add pode ser usado para adicionar arquivos ao índice.
+
+git clone
+O comando git clone é usado para fins de verificação de repositório.
+
+git commit
+O comando git commit é usado para confirmar as alterações na cabeça.
+
+git status
+O comando git status exibe a lista de arquivos alterados juntamente com os arquivos que ainda
+não foram adicionados ou confirmados
+
+git push
+é outro dos comandos git básicos mais usados. Um simples envio envia as alterações feitas para
+o ramo mestre do repositório remoto associado ao diretório de trabalho. Por exemplo:
+git push origin master
+
+git checkout
+O comando git checkout pode ser usado para criar ramos ou alternar entre eles. Por exemplo, o
+seguinte cria um novo ramo e muda para ele:
+
+git remote
+O comando git remote permite que um usuário se conecte a um repositório remoto. O comando a 
+seguir lista os repositórios remotos atualmente configurados:
+
+git branch
+O comando git branch pode ser usado para listar, criar ou excluir ramos. Para listar todos 
+os ramos presentes no repositório
+
+git pull
+Para mesclar todas as alterações presentes no repositório remoto para o diretório de trabalho local,
+o comando pull é usado.
+
+git merge
+O comando git merge é usado para mesclar uma ramificação no ramo ativo.
+
+git diff
+O comando git diff é usado para listar os conflitos. Para visualizar conflitos com o arquivo base
+
+git tag
+A marcação é usada para marcar compromissos específicos com alças simples.
+
+git log
+Executar o comando git log exibe uma lista de compromissos em uma ramificação, juntamente com os detalhes pertinentes
+
+git rm  
+pode ser usado para remover arquivos do índice e do diretório de trabalho.
